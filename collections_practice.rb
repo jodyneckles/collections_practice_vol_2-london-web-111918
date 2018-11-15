@@ -1,5 +1,4 @@
 require 'pry'
-# your code goes here
 #array = ["ruby", "rspec", "rails"]
 # any? Passes each element of the collection to the given block.
 # The method returns true if the block ever returns a value other than false or nil.
